@@ -1,0 +1,32 @@
+# Day 1: From IDLE to PyCharm, Functions, OOP & GitHub 🚀
+
+Today I finally shifted from **IDLE** to **PyCharm**.  
+The dev experience feels smoother and cleaner — it almost felt like magic when the code started completing itself. Once I understood the UI and how to create projects, PyCharm just *clicked*.
+
+---
+
+## 🔧 What I Learned
+
+### 🐍 Python Functions & OOP:
+- Wrote my first **functions** in Python
+- Explored OOP concepts:
+  - `self` and `cls`
+  - Class vs instance variables  
+- Related `self` and `cls` to *micro and macro* concepts from economics — which made everything much clearer.
+
+### 👀 Watchdog:
+- Learned the basics of the **watchdog** library (monitors file changes)
+- Planning to use it in a **custom file-organizer project** in the future
+
+### 💻 GitHub:
+- Installed **GitHub Desktop**
+- Created my **first public repository**
+- Uploaded my Python learning files  
+- It was simpler than I expected — feels great to track my learning journey.
+
+---
+
+## 📚 Sources:
+- [YouTube – PyCharm Basics](https://youtu.be/89cGQjB5R4M)  
+- [YouTube – Python OOP for Beginners](https://youtu.be/q2SGW2VgwAM)  
+- [YouTube – Watchdog Overview](https://youtu.be/jvg9N8zNVjA)
