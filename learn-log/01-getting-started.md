@@ -27,6 +27,6 @@ The dev experience feels smoother and cleaner — it almost felt like magic when
 ---
 
 ## 📚 Sources:
-- [YouTube – PyCharm Basics](https://youtu.be/89cGQjB5R4M)  
+- [YouTube – Functions in Python](https://youtu.be/89cGQjB5R4M)  
 - [YouTube – Python OOP for Beginners](https://youtu.be/q2SGW2VgwAM)  
 - [YouTube – Watchdog Overview](https://youtu.be/jvg9N8zNVjA)
