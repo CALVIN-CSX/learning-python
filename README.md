@@ -1,13 +1,39 @@
-# Learning Python 🐍
+# 📘 Python Learning Repository
 
-This repository contains all the Python scripts I'm writing as I learn the language — covering core concepts, practice exercises, and useful tools.
+This repository documents my personal journey of learning Python—starting from fundamentals, practicing problem-solving, and logging key concepts and reflections.
 
-## Topics Covered So Far
-- Functions and Parameters
-- OOP: Classes, `self`, `cls`
-- Class vs Instance Variables
-- `@staticmethod` and `@classmethod`
-- Basic File Monitoring with `watchdog`
+The goal is to develop real coding fluency through consistent practice, clean code organization, and regular reflection.
 
-## Tools
-- IDE: PyCharm
+---
+
+## 📊 Progress Overview
+
+| Category             | Count |
+|----------------------|-------|
+|  Problems Solved      | 3     |
+|  Learning Scripts    | 4     |
+|  Blog Entries        | 2     |
+
+_This table will be updated as the journey continues._
+
+---
+
+## 📁 Repository Structure
+
+```bash
+learning-python/
+├── codes/                      # Python learning content
+│   ├── problems/               # Solved beginner problems
+│   │   ├── sum_of_digits.py
+│   │   ├── palindrome.py
+│   │   ├── count_vowels.py
+│   │   └── README.md           # Problem descriptions and notes
+│   └── topics/                 # Concept-based Python practice
+│       ├── Functions.py
+│       ├── OOPs_in_python.py
+│       ├── Class_variables.py
+│       └── Basics_Refreshing.py
+├── learn-log/                  # Blog-style markdown entries
+│   ├── getting_started.md
+│   └── revision_and_basics.md
+└── README.md                   # You are here
