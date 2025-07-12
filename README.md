@@ -53,7 +53,7 @@ learning-python/
 │           ├── File_Detection.py
 │           ├── output.txt
 │           ├── test_file.txt
-│           └── test_directory/
+│           └── test_directory/    # Used for file read/write examples
 │               ├── output2.txt
 │               └── test.txt
 ├── learn-log/                     # Blog-style markdown entries
