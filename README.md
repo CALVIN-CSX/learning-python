@@ -12,7 +12,7 @@ The goal is to develop real coding fluency through consistent practice, clean co
 |----------------------|-------|
 |  Problems Solved      | 3     |
 |  Learning Scripts    | 14    |
-|  Blog Entries        | 4     |
+|  Blog Entries        | 5     |
 
 _This table will be updated as the journey continues._
 
@@ -60,5 +60,6 @@ learning-python/
 │   ├── getting_started.md
 │   ├── revision_and_basics.md
 │   ├── Modules_and_file_Handling.md
-│   └── watchdog_and_Exceptions.md
+│   ├── watchdog_and_Exceptions.md
+│   └── My_First_Project(File_Automation).md
 └── README.md                      # You are here
