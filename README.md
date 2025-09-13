@@ -10,9 +10,9 @@ The goal is to develop real coding fluency through consistent practice, clean co
 
 | Category             | Count |
 |----------------------|-------|
-|  Problems Solved      | 3     |
-|  Learning Scripts    | 14    |
-|  Blog Entries        | 5     |
+|  Problems Solved      | 4     |
+|  Learning Scripts    | 17    |
+|  Blog Entries        | 7     |
 
 _This table will be updated as the journey continues._
 
@@ -27,6 +27,7 @@ learning-python/
 │   │   ├── sum_of_digits.py
 │   │   ├── palindrome.py
 │   │   ├── count_vowels.py
+│   │   ├── 004.armstrong.py        # Armstrong number checker
 │   │   └── README.md               # Problem descriptions and notes
 │   └── topics/                     # Concept-based Python practice
 │       ├── Modules.py
@@ -61,5 +62,11 @@ learning-python/
 │   ├── revision_and_basics.md
 │   ├── Modules_and_file_Handling.md
 │   ├── watchdog_and_Exceptions.md
-│   └── My_First_Project(File_Automation).md
+│   ├──My_First_Project(File_Automation).md
+│   ├──My_first_Game_Ever!(2D platformer).md
+│   └──Reflection_and_Progress.md
+├── 007.Reflection_and_Progress.md # Learning journey reflection
+├── 015.list_operations.py.py      # List operations and slicing
+├── 016.remove_duplicates_and_set.py # Duplicate removal using lists and sets
+├── 017.string_splitting.py        # String splitting operations
 └── README.md                      # You are here
